@@ -1,5 +1,6 @@
-package com.n26zirkler.core.data
+package com.n26zirkler.btcpricechart
 
+import com.n26zirkler.core.data.PriceChartDataSource
 import com.n26zirkler.core.domain.PriceChartData
 import com.n26zirkler.core.domain.PriceChartTimeSpan
 import io.reactivex.Single

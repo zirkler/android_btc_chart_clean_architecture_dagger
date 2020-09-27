@@ -2,9 +2,9 @@ package com.n26zirkler.btcpricechart.pricechart
 
 import android.app.Application
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
+import com.n26zirkler.btcpricechart.FakePriceDataSource
 import com.n26zirkler.btcpricechart.LiveDataTestUtil
 import com.n26zirkler.btcpricechart.presentation.pricechart.PriceChartViewModel
-import com.n26zirkler.core.data.FakePriceDataSource
 import com.n26zirkler.core.data.PriceChartRepository
 import com.n26zirkler.core.domain.Fail
 import com.n26zirkler.core.domain.PriceChartTimeSpan
