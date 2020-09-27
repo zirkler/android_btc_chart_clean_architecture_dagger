@@ -18,7 +18,7 @@ import com.github.mikephil.charting.formatter.ValueFormatter
 import com.github.mikephil.charting.highlight.Highlight
 import com.github.mikephil.charting.listener.OnChartValueSelectedListener
 import com.n26zirkler.btcpricechart.R
-import com.n26zirkler.btcpricechart.framework.BtcPriceChartApplication
+import com.n26zirkler.btcpricechart.presentation.BtcPriceChartApplication
 import com.n26zirkler.btcpricechart.presentation.ViewModelFactory
 import com.n26zirkler.core.domain.Fail
 import com.n26zirkler.core.domain.Loading

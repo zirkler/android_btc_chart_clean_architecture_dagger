@@ -1,4 +1,4 @@
-package com.n26zirkler.btcpricechart.framework
+package com.n26zirkler.btcpricechart.presentation
 
 import android.app.Application
 import com.n26zirkler.btcpricechart.di.AppComponent
