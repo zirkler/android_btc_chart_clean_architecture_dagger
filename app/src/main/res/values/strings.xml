@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">btcpricechart</string>
+    <string name="timespan_all">All Time</string>
+    <string name="timespan_one_year">1 Year</string>
+    <string name="timespan_six_months">6 Months</string>
+    <string name="timespan_five_weeks">5 Weeks</string>
+    <string name="btt_reload_price_data">Reload Price Data</string>
+    <string name="error_msg_generic">An Error occurred, please try again.</string>
+</resources>

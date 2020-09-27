@@ -1,0 +1,3 @@
+include ':business-logic'
+include ':app'
+rootProject.name = "btcpricechart"
